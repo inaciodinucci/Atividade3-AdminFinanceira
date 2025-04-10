@@ -1,5 +1,3 @@
-Repositório simples para guardar os dois códigos da atividade 3 de Administração Financeira que contém código.
+Repositório simples para guardar os dois códigos da atividade de Administração Financeira.
 
 O repositório contém duas pastas, uma com o código em Java e a outra em Python.
-
-Discente: Inácio Cordeiro Dinucci
